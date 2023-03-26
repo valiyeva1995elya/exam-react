@@ -1,0 +1,7 @@
+export { default as AddProductPage } from "./AddProductPage/AddProductPage" 
+export { default as DeleteProductPage } from "./DeleteProductPage/DeleteProductPage" 
+export { default as HistoryPage } from "./HistoryPage/HistoryPage" 
+export { default as SaleProductPage } from "./SaleProductPage/SaleProductPage" 
+export { default as StockPage } from "./StockPage/StockPage" 
+export { default as Main } from "./Main/Main" 
+export { default as ErrorPage } from "./ErrorPage/ErrorPage" 
